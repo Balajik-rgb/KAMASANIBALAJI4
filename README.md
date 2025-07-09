@@ -61,3 +61,4 @@ Scalable architecture for additional devices
 The system demonstrates mastery of embedded programming, AI integration, voice processing, IoT protocols, and web development - perfect for internship completion certification. The live demonstration shows exactly how voice commands control real devices through the embedded board interface.
 # OUTPUT
 <img width="934" height="602" alt="Image" src="https://github.com/user-attachments/assets/6ef5a1ff-8f3e-4987-ac8c-02622d94ab24" />
+<img width="624" height="522" alt="Image" src="https://github.com/user-attachments/assets/569ee0e2-9bdd-4a4c-9ea2-3ad134ab53d1" />
